@@ -1,0 +1,50 @@
+.place {
+    color: #896a29;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.name {
+    color: #23698A;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.discount {
+    background-color: #623f19;
+    font-size: 20px;
+}
+
+.description {
+    color: #23698A;
+    font-size: 12px;
+    text-align: left;
+}
+
+
+/* Fonction space around à retrouver...
+    .pictures {
+    display: flex;
+    flex: space-around;
+} */
+
+.price {
+    color: #23698A;
+    font-size: 12px;
+}
+
+.delete {
+    text-decoration: line-through;
+}
+
+
+.finalPrice {
+    color: #473716;
+    font-size: 22px;
+}
+
+.departure {
+    color: "896a29";
+    font-size: 16px;
+    font-weight: bold;
+}
